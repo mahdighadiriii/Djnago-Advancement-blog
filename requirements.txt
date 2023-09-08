@@ -1,6 +1,14 @@
+# general app
 django >3.2,<3.3
 python-decouple
 pillow
 djangorestframework
+
+
+
+# third party app
 markdown       
 django-filter  
+django-rest-authtoken
+drf-yasg[validation]
+djangorestframework-simplejwt
