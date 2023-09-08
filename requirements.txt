@@ -19,7 +19,11 @@ flake8
 pytest
 pytest-django
 
+# email third party modules
+django-mail-templated
 
 
 # background proccess and cache
 celery
+redis
+django-redis
