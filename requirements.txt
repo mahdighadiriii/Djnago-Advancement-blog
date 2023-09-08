@@ -12,6 +12,7 @@ django-filter
 drf-yasg[validation]
 djangorestframework-simplejwt
 djoser
+django-cors-headers
 
 #reformating and tests
 black
