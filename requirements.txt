@@ -6,9 +6,9 @@ djangorestframework
 
 
 
-# third party app
+# third party modules
 markdown       
 django-filter  
-django-rest-authtoken
 drf-yasg[validation]
 djangorestframework-simplejwt
+djoser
