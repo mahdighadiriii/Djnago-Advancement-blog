@@ -18,6 +18,7 @@ black
 flake8
 pytest
 pytest-django
+faker
 
 # email third party modules
 django-mail-templated
