@@ -12,3 +12,12 @@ django-filter
 drf-yasg[validation]
 djangorestframework-simplejwt
 djoser
+
+#reformating and tests
+black
+flake8
+
+
+
+# background proccess and cache
+celery
