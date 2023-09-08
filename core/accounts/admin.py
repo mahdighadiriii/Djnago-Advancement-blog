@@ -5,7 +5,7 @@ from .models import User, Profile
 
 class CustomUserAdmin(UserAdmin):
     """
-    Custom admin panel for user management with add and change forms plus password
+    Custom admin panel for user management with add and change forms  password
     """
 
     model = User
