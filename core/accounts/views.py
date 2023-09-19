@@ -12,6 +12,6 @@ def send_email(request):
 @cache_page(60)
 def test(request):
     response = requests.get(
-        "https://b0334311-3948-4555-af18-17d55a318926.mock.pstmn.io/test/delay/5"
+        "https://66eb931a-57a8-429d-9656-7a2029901d3b.mock.pstmn.io/test/delay/5"
     )
     return JsonResponse(response.json())
